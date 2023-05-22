@@ -1,7 +1,8 @@
 /*
 학번 : 202301741
 이름 : 고선우
- */
+
+
 class Point{//ppt에 있는 클래스 생성
     private int x,y;//ppt에 있는 인스턴스 생성
     public Point(int x, int y){//ppt에 있는 메소드 생성
@@ -49,3 +50,4 @@ class ColorPoint1 {
         System.out.println(cp.toString() + "입니다.");//출력
     }
   }
+  */

@@ -59,7 +59,7 @@ class ForeignStudent extends Student {
     }
 }
 
-public class Main {
+public class person1 {
     public static void main(String[] args) {
         Person pe = new Person("Hong Kil-Dong", 25);
         Student st = new Student("Chang kil-San", 20, 202302111);
