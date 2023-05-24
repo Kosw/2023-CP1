@@ -1,7 +1,7 @@
 /*
 학번 : 202301741
 이름 : 고선우
- */
+
 class Person {
     private String name;
     private int age;
@@ -70,3 +70,6 @@ public class person1 {
         System.out.println(fo.show());
     }
 }
+
+
+ */
