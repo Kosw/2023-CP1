@@ -1,7 +1,7 @@
 /*
 학번 : 202301741
 이름 : 고선우
- */
+
 class Triangle{//Triangle 클래스 생성
     double width = 0;//피피티에 있는 변수 생성
     double height = 0;//피피티에 있는 변수 생성
@@ -42,3 +42,5 @@ class triangle1 {
 
     }
 }
+
+ */
