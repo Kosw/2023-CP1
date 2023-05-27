@@ -1,7 +1,7 @@
 /*
 학번 : 202301741
 이름 : 고선우
- */
+
 import java.util.Scanner;
 class Calculator {
     int a;
@@ -46,3 +46,6 @@ public class cac1 {
         System.out.println("나누기: " + cs.divide());
     }
 }
+
+
+ */

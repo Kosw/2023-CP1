@@ -1,7 +1,7 @@
 /*
 학번 : 202301741
 이름 : 고선우
- */
+
 import java.util.Scanner;//스캐너 사용하기위해 라이브러리 불러옴
 class Add{//Add 클래스 생성
     int a = 0;//int형 인스턴스 변수 생성
@@ -87,3 +87,5 @@ class comp1 {
         }
     }
 }
+
+ */
