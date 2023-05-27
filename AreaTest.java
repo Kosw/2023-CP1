@@ -22,5 +22,6 @@ public class AreaTest {
 		System.out.print("인 원의 면적은 ");//출력
 		System.out.print(area);//넓이 출력
 		in.close();
+		
 		}
 }

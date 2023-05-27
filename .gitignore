@@ -1,0 +1,20 @@
+# 디폴트 무시된 파일
+/shelf/
+/workspace.xml
+/vcs.xml
+/modules.xml
+/misc.xml
+/.idea
+/out
+/production
+*.class
+/out/
+out/
+.idea/
+/.idea/
+/ksw.iml
+/.DS_Store
+/ksw.iml/
+/.DS_Store/
+*.iml
+*.DS_Store
