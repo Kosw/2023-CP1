@@ -1,7 +1,7 @@
 /*
 학번 : 202301741
 이름 : 고선우
- */
+
 class Complex {//클래스 생성
     double real = 0;//피피티에 있는 인스턴스 변수 생성
     double imag = 0;//피피티에 있는 인스턴스 변수 생성
@@ -56,3 +56,6 @@ class Compelxnum1 {
         dd.print();//반환받은 값 출력
     }
 }
+
+
+ */

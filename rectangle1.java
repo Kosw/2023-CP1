@@ -1,7 +1,7 @@
 /*
 학번 : 202301741
 이름 : 고선우
- */
+
 class Rectangle {//클래스 생성
     int x;        // int형 변수 선언
     int y;        // int형 변수 선언
@@ -59,3 +59,6 @@ public class rectangle1 {
         }
     }
 }
+
+
+ */

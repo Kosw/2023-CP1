@@ -1,7 +1,7 @@
 /*
 학번 : 202301741
 이름 : 고선우
- */
+
 
 class Account { //클래스 생성
     int balance; // int형 balance 변수 선언
@@ -39,3 +39,5 @@ public class bank1 {
         System.out.println("출금 후 잔액 :"+account.inquiry()); // 빼는게 더 많앗서 잔액 부족 출력
     }
 }
+
+ */

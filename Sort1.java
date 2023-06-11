@@ -1,7 +1,7 @@
 /*
 학번 : 202301741
 이름 : 고선우
- */
+
 import java.util.Arrays;
 import java.util.Random;
 
@@ -37,3 +37,5 @@ class Sort1{
 
     }
 }
+
+ */

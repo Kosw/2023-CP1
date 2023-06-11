@@ -1,7 +1,7 @@
 /*
 학번 : 202301741
 이름 : 고선우
- */
+
 import java.util.*; // 스캐너 불러오기
 
 class Dictionary {
@@ -34,3 +34,5 @@ class dictionary1 {
 
     }
 }
+
+ */

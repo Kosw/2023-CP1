@@ -1,7 +1,7 @@
 /*
 학번 : 202301741
 이름 : 고선우
- */
+
 
 class Dice {
     int diceFace;
@@ -35,3 +35,6 @@ public class Dice1 {
         }
     }
 }
+
+
+ */
